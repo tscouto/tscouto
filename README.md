@@ -1,8 +1,8 @@
 ### Hello, I'm Tiago da Silva Couto👋🏽
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-pereira-cardoso/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-da-silva-couto-6830baa9/)
 
-![EuJoaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuJoaoDev&show_icons=true&theme=dracula)
+![EuJoaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tscouto&show_icons=true&theme=dracula)
 
 #### Technologies used in everyday life:
 
