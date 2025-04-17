@@ -6,7 +6,8 @@
 
 #### 🛠️ Technologies I Use
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
+  <!-- Column 1 -->
   <div style="flex: 1; display: flex; flex-wrap: wrap; justify-content: flex-start;">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -17,6 +18,8 @@
     <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   </div>
+
+  <!-- Column 2 -->
   <div style="flex: 1; display: flex; flex-wrap: wrap; justify-content: flex-start;">
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -32,9 +35,16 @@
 
 #### 📊 GitHub Stats & Language Usage
 
-[![tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tscouto&show_icons=true&theme=dracula)](https://github.com/tscouto)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&hide_progress=true)](https://github.com/tscouto)
+<div style="display: flex; gap: 20px; margin-bottom: 30px;">
+  <a href="https://github.com/tscouto">
+    <img src="https://github-readme-stats.vercel.app/api?username=tscouto&show_icons=true&theme=dracula" alt="tiago's GitHub stats" />
+  </a>
+  <a href="https://github.com/tscouto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&hide_progress=true" alt="Top Langs" />
+  </a>
+</div>
 
+---
 
 #### 🚀 About Me
 
@@ -49,6 +59,3 @@ I have dedicated significant time to mastering React Native and JavaScript, two 
 Em busca de crescimento profissional na área de tecnologia, iniciei minha jornada acadêmica e tecnológica em 2022, ao ingressar no curso de Engenharia de Software. Meus primeiros passos foram focados no aprendizado de VBA (Visual Basic for Applications), que me proporcionou uma base sólida em resolução de problemas e automação. A partir disso, expandi meus conhecimentos para outras linguagens e tecnologias.
 
 Dediquei um tempo significativo ao aperfeiçoamento em React Native e JavaScript, duas tecnologias nas quais tenho me destacado e que considero fundamentais para o desenvolvimento de soluções eficientes, escaláveis e versáteis. Estou entusiasmado para aplicar meu conhecimento e contribuir com projetos inovadores e impactantes na área.
-
-
-Da uma melhorada oque da para melhroar de organização de layout
