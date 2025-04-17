@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&hide_progress=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&langs_count=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&hide=javascript,html)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tscouto&show_icons=true&theme=dracula)
