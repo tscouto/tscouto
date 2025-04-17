@@ -40,6 +40,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&langs_count=8)](https://github.com/tscouto)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&hide_progress=true)](https://github.com/tscouto)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&hide=javascript,html)](https://github.com/tscouto)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&layout=pie)](https://github.com/tscouto)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&layout=donut)](https://github.com/tscouto)
