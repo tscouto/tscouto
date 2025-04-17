@@ -7,7 +7,7 @@
 #### Technologies used in everyday life:
 
 <div style="display: inline_block">
-   <img align="center" alt="visual_basic" src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  
    <img align="center" alt="vba" src="https://img.shields.io/badge/VBA-Visual%20Basic-007396?style=for-the-badge&logo=visual-basic&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
