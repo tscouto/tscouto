@@ -2,38 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-da-silva-couto-6830baa9/)
 
-<p align="center">
-  <!-- Test Passing Badge -->
-  <a href="https://github.com/tscouto">
-    <img alt="Tests Passing" src="https://github.com/tscouto/github-readme-stats/actions/workflows/test.yml/badge.svg" />
-  </a>
-  <!-- Contributors Badge -->
-  <a href="https://github.com/tscouto/github-readme-stats/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/tscouto/github-readme-stats" />
-  </a>
-  <!-- Coverage Badge -->
-  <a href="https://codecov.io/gh/tscouto/github-readme-stats">
-    <img alt="Tests Coverage" src="https://codecov.io/gh/tscouto/github-readme-stats/branch/main/graph/badge.svg" />
-  </a>
-  <!-- Issues Badge -->
-  <a href="https://github.com/tscouto/github-readme-stats/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/tscouto/github-readme-stats?color=0088ff" />
-  </a>
-  <!-- Pull Requests Badge -->
-  <a href="https://github.com/tscouto/github-readme-stats/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/tscouto/github-readme-stats?color=0088ff" />
-  </a>
-  <!-- OpenSSF Badge -->
-  <a href="https://securityscorecards.dev/viewer/?uri=github.com/tscouto/github-readme-stats">
-    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/tscouto/github-readme-stats/badge" />
-  </a>
-  <br />
-  <br />
-  <!-- Powered by Vercel -->
-  <a href="https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss">
-    <img src="https://vercel.com/button" />
-  </a>
-</p>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tscouto)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tscouto&show_icons=true&theme=dracula)
