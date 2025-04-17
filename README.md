@@ -33,7 +33,7 @@
 #### 📊 GitHub Stats & Language Usage
 
 [![tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tscouto&show_icons=true&theme=dracula)](https://github.com/tscouto)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&hide_progress=true)](https://github.com/tscouto)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&hide_progress=true)](https://github.com/tscouto)
 
 
 #### 🚀 About Me
