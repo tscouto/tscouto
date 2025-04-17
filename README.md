@@ -1,16 +1,10 @@
-### Hello, I'm Tiago da Silva Couto👋🏽
+### Hello, I'm Tiago da Silva Couto 👋🏽
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-da-silva-couto-6830baa9/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&hide_progress=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&langs_count=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&hide=javascript,html)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tscouto&show_icons=true&theme=dracula)
-
-#### Technologies used in everyday life:
+#### 🛠️ Technologies I Use
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,11 +23,36 @@
   <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
-<br>
-<br>
+
+---
+
+#### 📊 GitHub Stats & Language Usage
+
+[![tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tscouto&show_icons=true&theme=dracula)](https://github.com/tscouto)
+
+---
+
+#### 🏆 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&langs_count=8)](https://github.com/tscouto)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&hide_progress=true)](https://github.com/tscouto)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&hide=javascript,html)](https://github.com/tscouto)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&layout=pie)](https://github.com/tscouto)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tscouto&layout=donut)](https://github.com/tscouto)
+
+---
+
+#### 🚀 About Me
+
 In pursuit of professional growth in the tech industry, I embarked on my academic and technological journey in 2022, enrolling in Software Engineering. My initial steps were focused on learning VBA (Visual Basic for Applications), which provided a solid foundation for problem-solving and automation. From there, I expanded my knowledge to other programming languages and technologies.
 
 I have dedicated significant time to mastering React Native and JavaScript, two technologies in which I have excelled and that I consider fundamental for building efficient, scalable, and versatile solutions. I am eager to apply my expertise and contribute to innovative and impactful projects in the field.
+
+---
 
 #### PT-BR
 
