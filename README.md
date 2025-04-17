@@ -1,8 +1,11 @@
 ### Hello, I'm Tiago da Silva Couto👋🏽
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-da-silva-couto-6830baa9/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tscouto&show_icons=true&theme=transparent)
-/*![tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tscouto&show_icons=true&theme=dracula)*/
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tscouto)](https://git.io/streak-stats)
+
+
+![tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tscouto&show_icons=true&theme=dracula)
 
 #### Technologies used in everyday life:
 
